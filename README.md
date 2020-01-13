@@ -1,3 +1,2 @@
 # matematicasInteligentes
-Prueba
-Prueba nuero 3
+Ejemplo JavaScript Basico
